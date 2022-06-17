@@ -1,1 +1,3 @@
 X = "Balls"
+
+print(X)
